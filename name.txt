@@ -1,0 +1,4 @@
+hello
+I am new to Github
+I am currently learning python
+I like using pyhton a lot
